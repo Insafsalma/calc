@@ -8,7 +8,7 @@
  * @copyright   Copyright Pierre-Henry SORIA, All Rights Reserved.
  * @license     Apache (http://www.apache.org/licenses/LICENSE-2.0)
  */
-//just test
+
 
 
 package simplejavacalculator;
